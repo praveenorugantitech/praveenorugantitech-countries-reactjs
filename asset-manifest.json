@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/praveenorugantitech-countries-reactjs/static/css/main.af30117f.chunk.css",
+    "main.js": "/praveenorugantitech-countries-reactjs/static/js/main.ca5d240c.chunk.js",
+    "runtime-main.js": "/praveenorugantitech-countries-reactjs/static/js/runtime-main.dec88cbc.js",
+    "static/js/2.3b1c87f0.chunk.js": "/praveenorugantitech-countries-reactjs/static/js/2.3b1c87f0.chunk.js",
+    "static/js/3.360198b7.chunk.js": "/praveenorugantitech-countries-reactjs/static/js/3.360198b7.chunk.js",
+    "index.html": "/praveenorugantitech-countries-reactjs/index.html",
+    "static/js/2.3b1c87f0.chunk.js.LICENSE.txt": "/praveenorugantitech-countries-reactjs/static/js/2.3b1c87f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dec88cbc.js",
+    "static/js/2.3b1c87f0.chunk.js",
+    "static/css/main.af30117f.chunk.css",
+    "static/js/main.ca5d240c.chunk.js"
+  ]
+}
