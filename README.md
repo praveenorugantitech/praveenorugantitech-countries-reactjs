@@ -19,7 +19,7 @@ We should be able to do the following
 </div>
 
 
-[Live Demo](https://praveenoruganti-countries.firebaseapp.com/)
+[Live Demo](https://praveenorugantitech.github.io/praveenorugantitech-countries-reactjs/)
 
 
 
