@@ -12,7 +12,7 @@ We should be able to do the following
 - Click through to the border countries on the detail page
 - Toggle the color scheme between light and dark mode (optional)
 
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs/master/0_Projects/praveenorugantitech-countries/src/images/screenshot.PNG "Fetch Countries Data")
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-reactjs-projects/master/0_Projects/praveenorugantitech-countries/src/images/screenshot.PNG "Fetch Countries Data")
 
 
 [Live Demo](https://praveenoruganti-countries.firebaseapp.com/)
