@@ -1,4 +1,4 @@
-# Fetch Countries Data developed using React JS
+# Fetch Countries Data developed using React JS and Material UI
 
 We will fetch the countries data from [Rest Countries API](https://restcountries.eu/rest/v2/all)
 
